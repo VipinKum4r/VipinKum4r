@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vipin Kumar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
+<img align="centre" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinkum4r&label=Profile%20views&color=0e75b6&style=flat" alt="vipinkum4r" /> </p>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vipinkum4r" target="blank"><img src="https://img.shields.io/twitter/follow/vipinkum4r?logo=twitter&style=for-the-badge" alt="vipinkum4r" /></a> </p>
 
-- 🔭 I’m currently working on **database management project**
+- 🔭 I’m currently working on **Database Management project**
 
 - 🌱 I’m currently learning **mySql**
 
