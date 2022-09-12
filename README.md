@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I am currently working on Linux<br>🌱 I'm currently learning DBMS<br>💬 Ask me about Data Analytics<br>⚡Fun Fact I am funny
+<img src= "https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" height="270px" width="370px" align="right">
 
 
 ## 🌐 Socials:
