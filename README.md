@@ -1,26 +1,115 @@
-# 💫 About Me:
-🔭 I am currently working on Linux<br>🌱 I'm currently learning DBMS<br>💬 Ask me about Data Analytics<br>⚡Fun Fact I am funny
-<img src= "https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" height="270px" width="370px" align="right">
+<a href="https://github.com/Vipinkum4r?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Vipinkum4r?style=social"></a> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Vipinkum4r?style=social"> &nbsp;&nbsp;
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vipinkum4r) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vipinkum4r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vipinkum4r) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/vipinkum4r) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vipinkum4r) 
+<p align="center">
+<img src="sourcefiles/images/hlo.png">
+  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+Guys!+This+is+Narendra!!!;Welcome+to+my+profile!!!" alt="Title"></img>
+</div>
+<!--coding logo
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
+<!--states
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px" height="50px">
+<!--contact symbol
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">
+-->
+<br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vipinkum4r&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vipinkum4r&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinkum4r&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vipinkum4r&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=vipinkum4r&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vipinkum4r) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <h2 align="center">ABOUT MYSELF <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></h2><br>
   
+
+<br>
+
+
+- :credit_card: My self ***Vipin***, an ordinary student
+- :school: I am currently studing Btech in Artificial Intelligence at **Chandigarh Group Of Colleges, Mohali**
+- :sweat_smile: Don't ask me why you have changed the stream :sweat_smile: 
+- :sunglasses: Proud to be an ENGINEER 👍
+- :ok_hand: I am good at making new friends 😙
+- :point_right: Currently I am focusing on my career. 👈
+- :earth_asia: My ultimate goal is to visit every place in the world. *Which may not be completed* 😓
+- :books: Actually, I don't use any books because everything is available on the ***Internet***.:sunglasses:
+<br>
+<br>
+
+<img src="sourcefiles/images/header_1-removebg.png">
+<br>
+<br>
+
+<h2 align="center"><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px">  WHAT I HAVE COMPLETED  <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>
+<br>
+<br>
+<br>
+
+- 👉 PROGRAMMING IN PYTHON <img src="sourcefiles/images/logos-removebg-preview.png" align="right">
+- 👉 PROGRAMMING IN JAVA
+- 👉 PROGRAMMING IN C++
+- 👉 HTML
+- 👉 CSS
+- 👉 3D DESINING
+<br>
+<br>
+
+<h2 align="center"><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px">  WHAT I WANT TO COMPLETE  <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>
+<br>
+<br>
+
+
+
+- ⭐ SQL <img src="sourcefiles/images/coding giphy.webp" align="right">
+- ⭐ JAVASCRIPT
+- ⭐ BACKEND DEVELOPMENT
+- ⭐ .NET
+<br>
+<br>
+
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="60px" height="40px">  MY CODING STATUS  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+
+<br>
+<br>
+
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipinkum4r&layout=compact&show_icon=true&theme=dark" alt="Vipinkum4r-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Vipinkum4r&layout=compact&show_icon=true&theme=dark" alt="Vipinkum4r-stats"/>
+</div>
+<br>
+<br>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Vipinkum4r&theme=dark&background=0d1117&hide_border=true" />
+  <br>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Vipinkum4r&theme=react-dark"/>
+  
+</div>
+<br>
+<br>
+<br>
+<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px">
+  CONNECT WITH ME  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px"></h2>
+<br>
+<h3 align="center">SOCIAL MEDIA</h4>
+<div aign="center">
+  <p align="center">
+  <a href="https://www.facebook.com/narendrakumar.reddy.754" target="_blank" ><img src="sourcefiles/images/fb1.webp" width="60px" height="60px"></a><a href="https://www.instagram.com/_.mr__reddy/" target="_blank" ><img src="sourcefiles/images/instalogo2.webp" width="60px" height="60px"></a><a href="https://api.whatsapp.com/send?phone=+918790729468&text=hloboss" target="_blank"><img src="sourcefiles/images/whatsapp logo.webp" width="60px" height="60px"></a><a href="https://www.snapchat.com/add/just_narendra?share_id=LM61Y7SnPYM&locale=en-GB" target="_blank"><img src="sourcefiles/images/sc.webp" width="55px" height="50px"></a>
+  <a href="https://www.linkedin.com/in/narendra-kumar-reddy-a60928224/"><img src="sourcefiles/images/li.webp" width="60px"' height="60px"></a>
+  </p>
+</div>
+<br>
+<br>
+<br>
+<h3 align="center">CODING PLATFORMS</h3>
+<p align="center">
+  <a href="https://www.codechef.com/users/narendrakadiri" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/codechef.png" width="60px" height="60px"></a>
+  <a href="https://leetcode.com/narendra_036/" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/leetcode.png" width="60px" height="60px"></a>
+  <a href="https://auth.geeksforgeeks.org/user/narendraknr12345/profile" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/gfg.png" width="60px" height="60px"></a>
+  <a href="https://www.codingninjas.com/codestudio/profile/52e1d1f6-2eaa-4c08-9121-4f7eac696dd3"><img src="sourcefiles/images/cn-removebg-preview.png" width="60px" height="60px"></a>
+</p>
+<br>
+<br>
+<br>
+<br>
+<h3 align="center">FEELING HAPPY TO SEE YOU HERE..😅</h3>
+
