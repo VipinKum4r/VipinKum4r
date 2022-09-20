@@ -1,116 +1,43 @@
-<a href="https://github.com/Vipinkum4r?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Vipinkum4r?style=social"></a> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Vipinkum4r?style=social"> &nbsp;&nbsp;
+<h1 align="center">Hi 👋, I'm Vipin Kumar</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinkum4r&label=Profile%20views&color=0e75b6&style=flat" alt="vipinkum4r" /> </p>
 
-<p align="center">
-<img src="sourcefiles/images/hlo.png">
-  </p>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi+Guys!+This+is+Vipin!!!;Welcome+to+my+profile!!!" alt="Title"></img>
-</div>
-<!--coding logo
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
-<!--states
-<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px" height="50px">
-<!--contact symbol
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">
--->
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipinkum4r" alt="vipinkum4r" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/vipinkum4r" target="blank"><img src="https://img.shields.io/twitter/follow/vipinkum4r?logo=twitter&style=for-the-badge" alt="vipinkum4r" /></a> </p>
 
-  <h2 align="center">ABOUT MYSELF <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="40px"></h2><br>
-  
+- 🔭 I’m currently working on **Data Analytics project**
 
-<br>
+- 🌱 I’m currently learning **mySQL**
 
+- 👯 I’m looking to collaborate on **open source projects**
 
-- :credit_card: My self ***Vipin***, an ordinary student
-- :school: Currently I am studing Btech in Artificial Intelligence at **Chandigarh Group Of Colleges, Mohali**
-- :school: In past I have completed my *Diploma in Mechanical Engineering* at ***Loyola Polytechnic [YSRR]*** in Pulivendla.
-- :sweat_smile: Don't ask me why you have changed the stream :sweat_smile: 
-- :sunglasses: Proud to be an ENGINEER 👍
-- :ok_hand: I am good at making new friends 😙
-- :point_right: Currently I am focusing on my career. 👈
-- :earth_asia: My ultimate goal is to visit every place in the world. *Which may not be completed* 😓
-- :books: Actually, I don't use any books because everything is available on the ***Internet***.:sunglasses:
-<br>
-<br>
+- 🤝 I’m looking for help with **Machine Learning algorithms**
 
-<img src="sourcefiles/images/header_1-removebg.png">
-<br>
-<br>
+- 💬 Ask me about **python**
 
-<h2 align="center"><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px">  WHAT I HAVE COMPLETED  <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>
-<br>
-<br>
-<br>
+- 📫 How to reach me **vipinkum4r@gmail.com**
 
-- 👉 PROGRAMMING IN PYTHON <img src="sourcefiles/images/logos-removebg-preview.png" align="right">
-- 👉 PROGRAMMING IN JAVA
-- 👉 PROGRAMMING IN C++
-- 👉 HTML
-- 👉 CSS
-- 👉 3D DESINING
-<br>
-<br>
+- ⚡ Fun fact **I am funny**
 
-<h2 align="center"><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px">  WHAT I WANT TO COMPLETE  <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="40px" height="40px"></h2>
-<br>
-<br>
-
-
-
-- ⭐ SQL <img src="sourcefiles/images/coding giphy.webp" align="right">
-- ⭐ JAVASCRIPT
-- ⭐ BACKEND DEVELOPMENT
-- ⭐ .NET
-<br>
-<br>
-
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="60px" height="40px">  MY CODING STATUS  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
-
-<br>
-<br>
-
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipinkum4r&layout=compact&show_icon=true&theme=dark" alt="Vipinkum4r-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Vipinkum4r&layout=compact&show_icon=true&theme=dark" alt="Vipinkum4r-stats"/>
-</div>
-<br>
-<br>
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Vipinkum4r&theme=dark&background=0d1117&hide_border=true" />
-  <br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Vipinkum4r&theme=react-dark"/>
-  
-</div>
-<br>
-<br>
-<br>
-<h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px">
-  CONNECT WITH ME  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px"></h2>
-<br>
-<h3 align="center">SOCIAL MEDIA</h4>
-<div aign="center">
-  <p align="center">
-  <a href="https://www.facebook.com/Vipinkumar.reddy.754" target="_blank" ><img src="sourcefiles/images/fb1.webp" width="60px" height="60px"></a><a href="https://www.instagram.com/_.mr__reddy/" target="_blank" ><img src="sourcefiles/images/instalogo2.webp" width="60px" height="60px"></a><a href="https://api.whatsapp.com/send?phone=+918790729468&text=hloboss" target="_blank"><img src="sourcefiles/images/whatsapp logo.webp" width="60px" height="60px"></a><a href="https://www.snapchat.com/add/just_Vipin?share_id=LM61Y7SnPYM&locale=en-GB" target="_blank"><img src="sourcefiles/images/sc.webp" width="55px" height="50px"></a>
-  <a href="https://www.linkedin.com/in/Vipin-kumar-reddy-a60928224/"><img src="sourcefiles/images/li.webp" width="60px"' height="60px"></a>
-  </p>
-</div>
-<br>
-<br>
-<br>
-<h3 align="center">CODING PLATFORMS</h3>
-<p align="center">
-  <a href="https://www.codechef.com/users/Vipinkadiri" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/codechef.png" width="60px" height="60px"></a>
-  <a href="https://leetcode.com/Vipin_036/" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/leetcode.png" width="60px" height="60px"></a>
-  <a href="https://auth.geeksforgeeks.org/user/Vipinknr12345/profile" target="_blank" rel="noopener noreferrer"><img src="sourcefiles/images/gfg.png" width="60px" height="60px"></a>
-  <a href="https://www.codingninjas.com/codestudio/profile/52e1d1f6-2eaa-4c08-9121-4f7eac696dd3"><img src="sourcefiles/images/cn-removebg-preview.png" width="60px" height="60px"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipinkum4r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipinkum4r" height="30" width="40" /></a>
+<a href="https://kaggle.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vipinkum4r" height="30" width="40" /></a>
+<a href="https://fb.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vipinkum4r" height="30" width="40" /></a>
+<a href="https://instagram.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipinkum4r" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vipinkum4r" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vipinkum4r" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vipinkum4r" height="30" width="40" /></a>
 </p>
-<br>
-<br>
-<br>
-<br>
-<h3 align="center">FEELING HAPPY TO SEE YOU HERE..😅</h3>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vipinkum4r&show_icons=true&locale=en&layout=compact" alt="vipinkum4r" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vipinkum4r&show_icons=true&locale=en" alt="vipinkum4r" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinkum4r&" alt="vipinkum4r" /></p>
