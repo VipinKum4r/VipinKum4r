@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vipin Kumar</h1>
-<h3 align="center">A passionate C++ developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/vipinkum4r" target="blank"><img src="https://img.shields.io/twitter/follow/vipinkum4r?logo=twitter&style=for-the-badge" alt="vipinkum4r" /></a> </p>
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+- 👯 I’m looking to collaborate on **Gen AI Projects**
 
 - 💬 Ask me about **Python , Data Analytics**
 
