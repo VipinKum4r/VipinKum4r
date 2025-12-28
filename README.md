@@ -1,24 +1,62 @@
 <h1 align="center">Hi 👋, I'm Vipin Kumar</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">
+C++ Developer | Aspiring Low-Latency / Systems Engineer
+</h3>
 
-<p align="left"> <a href="https://twitter.com/vipinkum4r" target="blank"><img src="https://img.shields.io/twitter/follow/vipinkum4r?logo=twitter&style=for-the-badge" alt="vipinkum4r" /></a> </p>
-
-- 🌱 I’m currently learning **AWS**
-
-- 👯 I’m looking to collaborate on **Gen AI Projects**
-
-- 💬 Ask me about **Python , Data Analytics**
-
-- 📫 How to reach me **vipinkum4r@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vipinkum4r" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipinkum4r" height="30" width="40" /></a>
-<a href="https://kaggle.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vipinkum4r" height="30" width="40" /></a>
-<a href="https://fb.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vipinkum4r" height="30" width="40" /></a>
-<a href="https://instagram.com/vipinkum4r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vipinkum4r" height="30" width="40" /></a>
+<p align="center">
+Focused on performance-critical systems, modern C++, and Linux internals.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+- 🧠 Software Engineer with **1+ year experience**
+- 🚀 Transitioning towards **low-latency & systems programming**
+- 🔧 Strong interest in **modern C++ (C++17/20)**, concurrency, and performance optimization
+- 🐧 Comfortable working in **Linux environments**
+- 📊 Background in Python, data analysis, and backend systems
+
+---
+
+### 🎯 Current Focus
+- Deepening **C++ fundamentals** (memory model, RAII, move semantics)
+- Multithreading, atomics, and lock-free programming
+- Linux internals, CPU cache behavior, and latency optimization
+- Building **systems-level C++ projects** for my portfolio
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+> 🔒 I’m currently restructuring my GitHub to highlight **systems & C++ projects**.  
+Upcoming repositories will focus on:
+- Low-latency data structures
+- Multithreaded C++ systems
+- Performance benchmarking & profiling
+- Deterministic engines and simulations
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/vipinkum4r" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://twitter.com/vipinkum4r" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+</a>
+</p>
+
+---
+
+📫 **Email:** vipinkum4r@gmail.com
